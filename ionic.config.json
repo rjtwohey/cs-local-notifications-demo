@@ -1,0 +1,7 @@
+{
+  "name": "local-notifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
